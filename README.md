@@ -1,42 +1,41 @@
 ![GIF](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
 
-Tenho grande foco no **desenvolvimento back-end**, especialmente com **Python** e seus frameworks. Estou sempre buscando novos conhecimentos, desenvolvendo projetos práticos e aprimorando minhas habilidades.
+Desenvolvedor Web focado em **Back-end Development**, com forte domínio em **Python** e no ecossistema **Java Spring**. Atualmente, dedico meus estudos à arquitetura de sistemas escaláveis, serviços de nuvem (AWS) e automação de processos complexos.
 
-_I have a great focus on **back-end development**, especially with **Python** and its frameworks. I'm always in search of new knowledge, developing practical projects and improving my skills._
+_Software Engineer focused on **Back-end Development**, with strong expertise in **Python** and the **Java Spring** ecosystem. Currently, I am dedicated to studying scalable systems architecture, cloud services (AWS), and complex process automation._
 
 
-## 💻 Hard Skills
+## 💻 Tech Stack
 
-### Programming languages:
-- Python (POO, APIs REST, automations)
-- Java (in process)
-- HTML & CSS (basic)
-- JavaScript (basic)
-- SQL
+### Languages & Core:
+- **Python:** (Advanced) — Clean Code, POO, Algoritmos, Automação
+- **Java:** (Spring Ecosystem) — Arquitetura em camadas, APIs REST
+- **JavaScript:** Lógica voltada para produtividade, gestão corporativa
+- **SQL & NoSQL:** PostgreSQL, Oracle 19c, MySQL, MongoDB, Redis
 
-### Frameworks and utilities:
-- Django, Flask and FastAPI (in process)
-- BeautifulSoup, Requests, Pandas (basic)
-- Bootstrap, Tailwind CSS
-- Git & GitHub
-- Railway, Cloudinary
-- PostgreSQL, MySQL, SQLite, Oracle19c
+### Frameworks & Tools:
+- **Backend:** Django (DRF), Flask, FastAPI, Spring Boot, Spring Security (JWT)
+- **Data & Automation:** Pandas, Spring Data, BeautifulSoup, Selenium, Requests
+- **Frontend:** Javascript, Tailwind, Bootstrap, HTML, CSS, HTML5, CSS3
+- **Cloud & DevOps:** AWS (Lambda, SQS, EC2, S3), Docker, Git/GitHub (Gitflow), Postman, Swagger
 
 ### Others:
-- Word, Excel (intermediary), PowerPoint
-- Inglês (intermediary-advanced) 
-- NoSQL (studying with MongoBD)
+- Power BI
+- Linux
+- SOLID
 
 
-## 🚀 Prominent Projects
+## 🚀 Featured Projects
 
-### 🎬 Hashflix - Plataforma de Streaming 
-Projeto completo feito com Django, inspirado na estrutura da Netflix, com autenticação, histórico de visualizações, player de episódios, ajustado para dispositivos mobile, integração com Cloudinary e PostgreSQL (Railway), entre outras funcionalidades.  
-> Mais informações no meu perfil do [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7353198765060612097/) e [Github](https://github.com/GustavoSoaresbcge/django-streaming-app)!
+### 🎬 [Hashflix - Plataforma de Streaming](https://github.com/GustavoSoaresbcge/django-streaming-app)
+Desenvolvimento de uma plataforma robusta inspirada na Netflix. 
+- **Destaques:** Autenticação personalizada, controle de sessões, integração com **Cloudinary** para orquestração de mídia e **PostgreSQL** para alta disponibilidade de dados.
+- **Tecnologias:** Python, Django, PostgreSQL, JavaScript, Bootstrap.
 
 \
-_A full project built with Django, inspired by Netflix's structure. It includes user authentication, viewing history, episode player, mobile responsiveness, integration with Cloudinary and PostgreSQL (Railway), and more._  
-> _More details on my [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7353198765060612097/) and [GitHub](https://github.com/GustavoSoaresbcge/django-streaming-app)!_
+_Development of a robust platform inspired by Netflix._
+_- **Highlights:** Custom authentication, session control, integration with **Cloudinary** for media orchestration and **PostgreSQL** for high data availability._
+_- **Technologies:** Python, Django, PostgreSQL, JavaScript, Bootstrap._
 
 \
 Mais projetos em produção, confira em meu LinkedIn, sempre estarei informando por lá!
@@ -44,11 +43,11 @@ Mais projetos em produção, confira em meu LinkedIn, sempre estarei informando 
 _More projects in production, check out my LinkedIn, I will always be reporting there!_
 
 
-## 📁 Portfolio and Contacts
+## 📁 Contact & Connections
 
-Fique à vontade para explorar, acompanhar minha evolução e dar sugestões!
+Fique à vontade para explorar, acompanhar meus projetos e dar sugestões!
 
-_Feel free to explore, follow my progress, and share suggestions!_
+_Feel free to explore, follow my projects, and share suggestions!_
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-soares-5752a3307/) [Access here](https://www.linkedin.com/in/gustavo-soares-5752a3307/)   
@@ -56,8 +55,6 @@ _Feel free to explore, follow my progress, and share suggestions!_
 
 ---
 \
-Obrigado por visitar meu perfil! 🚀  
-Se quiser deixar um feedback, colaborar ou tiver alguma oportunidade, será um prazer conversar! 😄
+Obrigado por visitar meu perfil! 
 
 _Thanks for visiting my profile!_  
-_If you'd like to give feedback, collaborate or have an opportunity in mind, I'd love to talk!_
