@@ -1,60 +1,49 @@
-![GIF](https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif)
+<p align="center">
+  <img src="./assets/terminal.svg" alt="Terminal: gustavo-soares, back-end developer (Java, Python). Stack: Java, Spring Boot, Python, Django, RabbitMQ, PostgreSQL, Docker." width="720">
+</p>
 
-Desenvolvedor Web focado em **Back-end Development**, com forte domínio em **Python** e no ecossistema **Java Spring**. Atualmente, dedico meus estudos à arquitetura de sistemas escaláveis, serviços de nuvem (AWS) e automação de processos complexos.
+<p align="center">
+  Desenvolvedor Back-end · Java & Python<br>
+</p>
 
-_Software Engineer focused on **Back-end Development**, with strong expertise in **Python** and the **Java Spring** ecosystem. Currently, I am dedicated to studying scalable systems architecture, cloud services (AWS), and complex process automation._
+## Projetos
 
+### 📨 [Microservice_User](https://github.com/GustavoSoaresbcge/Microservice_User) + [Microservice_Email](https://github.com/GustavoSoaresbcge/Microservice_Email)
 
-## 💻 Tech Stack
+Dois microsserviços independentes que conversam por **RabbitMQ**. Ao cadastrar um usuário, o serviço *user* publica uma mensagem; o serviço *email* a consome e envia o e-mail de boas-vindas. Cada serviço tem o seu próprio banco.
 
-### Languages & Core:
-- **Python:** (Advanced) — Clean Code, POO, Algoritmos, Automação
-- **Java:** (Spring Ecosystem) — Arquitetura em camadas, APIs REST
-- **JavaScript:** Lógica voltada para produtividade, gestão corporativa
-- **SQL & NoSQL:** PostgreSQL, Oracle 19c, MySQL, MongoDB, Redis
+- 🔁 **Retry** com backoff exponencial (2s, 4s, 8s) e **Dead Letter Queue** para mensagens que esgotaram as tentativas
+- 🛠️ **Endpoint de reprocessamento** manual da DLQ
+- 🧱 Camadas bem separadas, princípios **SOLID** e **testes unitários** (JUnit 5 + Mockito)
+- 🔍 Bug real de integração com o SMTP diagnosticado pela análise dos logs de debug
 
-### Frameworks & Tools:
-- **Backend:** Django (DRF), Flask, FastAPI, Spring Boot, Spring Security (JWT)
-- **Data & Automation:** Pandas, Spring Data, BeautifulSoup, Selenium, Requests
-- **Frontend:** Javascript, Tailwind, Bootstrap, HTML, CSS, HTML5, CSS3
-- **Cloud & DevOps:** AWS (Lambda, SQS, EC2, S3), Docker, Git/GitHub (Gitflow), Postman, Swagger
+`Java 21` `Spring Boot` `Spring Data JPA` `RabbitMQ` `PostgreSQL` `Docker` `JUnit 5` `Mockito` `Maven`
 
-### Others:
-- Power BI
-- Linux
-- SOLID
+### 🎬 [Hashflix](https://github.com/GustavoSoaresbcge/django-streaming-app)
 
+Plataforma web de streaming construída do zero, inspirada na navegação dos serviços de streaming.
 
-## 🚀 Featured Projects
+- Modelagem relacional de filmes e episódios com **Django ORM**
+- **Autenticação completa** com modelo de usuário customizado (cadastro, login, logout e páginas restritas)
+- Histórico e contagem de visualizações, busca de conteúdo, Function-Based e Class-Based Views
+- Front-end responsivo com Bootstrap 5 e Tailwind CSS (publicado via Railway; hoje desativado)
 
-### 🎬 [Hashflix - Plataforma de Streaming](https://github.com/GustavoSoaresbcge/django-streaming-app)
-Desenvolvimento de uma plataforma robusta inspirada na Netflix. 
-- **Destaques:** Autenticação personalizada, controle de sessões, integração com **Cloudinary** para orquestração de mídia e **PostgreSQL** para alta disponibilidade de dados.
-- **Tecnologias:** Python, Django, PostgreSQL, JavaScript, Bootstrap.
-
-\
-_Development of a robust platform inspired by Netflix._
-_- **Highlights:** Custom authentication, session control, integration with **Cloudinary** for media orchestration and **PostgreSQL** for high data availability._
-_- **Technologies:** Python, Django, PostgreSQL, JavaScript, Bootstrap._
-
-\
-Mais projetos em produção, confira em meu LinkedIn, sempre estarei informando por lá!
-
-_More projects in production, check out my LinkedIn, I will always be reporting there!_
-
-
-## 📁 Contact & Connections
-
-Fique à vontade para explorar, acompanhar meus projetos e dar sugestões!
-
-_Feel free to explore, follow my projects, and share suggestions!_
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-soares-5752a3307/) [Access here](https://www.linkedin.com/in/gustavo-soares-5752a3307/)   
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gustavosoaresbcge@gmail.com) [Access here](mailto:gustavosoaresbcge@gmail.com)
+`Python` `Django` `HTML` `CSS` `JavaScript` `Bootstrap` `Tailwind CSS`
 
 ---
-\
-Obrigado por visitar meu perfil! 
 
-_Thanks for visiting my profile!_  
+## Próximos passos
+
+```bash
+$ git log --oneline --next
+  testes de integração com Testcontainers
+  autenticação com JWT no endpoint de reprocessamento
+  idempotência no consumidor de mensagens
+  pipeline de CI com GitHub Actions
+```
+
+---
+
+## Contato
+
+📩 [gustavosoaresbcge@gmail.com](mailto:gustavosoaresbcge@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/devgustavosoares)
