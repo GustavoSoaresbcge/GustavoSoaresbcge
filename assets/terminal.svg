@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="276" viewBox="0 0 760 276" role="img" aria-label="Terminal: gustavo-soares, back-end developer (java, python). Stack: java, spring boot, python, django, rabbitmq, postgresql, docker. Aberto a vagas júnior de back-end.">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="276" viewBox="0 0 760 276" role="img" aria-label="Terminal: gustavo-soares, back-end developer (java, python). Stack: java, spring boot, python, django, rabbitmq, postgresql, docker. Construindo sistemas que continuam funcionando.">
 <style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;font-size:15px}.cmd{fill:#e6edf3}.out{fill:#8b949e}.ok{fill:#3fb950}.p{fill:#3fb950}.t{fill:#8b949e;font-size:12px}</style>
 <defs>
 <clipPath id="c0"><rect x="28" y="56" width="0" height="26"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;760" dur="0.9s" begin="0.4s" calcMode="discrete" fill="freeze"/></rect></clipPath>
 <clipPath id="c1"><rect x="28" y="86" width="0" height="26"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;117.0;126.0;135.0;144.0;153.0;162.0;171.0;180.0;189.0;198.0;207.0;216.0;225.0;234.0;243.0;252.0;261.0;270.0;279.0;288.0;297.0;306.0;315.0;324.0;333.0;342.0;351.0;360.0;369.0;378.0;387.0;396.0;405.0;414.0;423.0;432.0;441.0;450.0;459.0;468.0;760" dur="1.8s" begin="1.5s" calcMode="discrete" fill="freeze"/></rect></clipPath>
-<clipPath id="c2"><rect x="28" y="116" width="0" height="26"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;117.0;126.0;760" dur="1.1s" begin="3.8s" calcMode="discrete" fill="freeze"/></rect></clipPath>
+<clipPath id="c2"><rect x="28" y="116" width="0" height="26"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;760" dur="0.9s" begin="3.8s" calcMode="discrete" fill="freeze"/></rect></clipPath>
 <clipPath id="c3"><rect x="28" y="146" width="0" height="26"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;117.0;126.0;135.0;144.0;153.0;162.0;171.0;180.0;189.0;198.0;207.0;216.0;225.0;234.0;243.0;252.0;261.0;270.0;279.0;288.0;297.0;306.0;315.0;324.0;333.0;342.0;351.0;360.0;369.0;378.0;387.0;396.0;405.0;414.0;423.0;432.0;441.0;450.0;459.0;468.0;477.0;486.0;495.0;504.0;513.0;522.0;531.0;540.0;549.0;558.0;567.0;576.0;585.0;594.0;603.0;612.0;760" dur="2.2s" begin="5.1s" calcMode="discrete" fill="freeze"/></rect></clipPath>
 <clipPath id="c4"><rect x="28" y="176" width="0" height="26"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;760" dur="0.9s" begin="7.8s" calcMode="discrete" fill="freeze"/></rect></clipPath>
-<clipPath id="c5"><rect x="28" y="206" width="0" height="26"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;117.0;126.0;135.0;144.0;153.0;162.0;171.0;180.0;189.0;198.0;207.0;216.0;225.0;234.0;243.0;252.0;261.0;270.0;279.0;288.0;297.0;306.0;315.0;324.0;333.0;342.0;351.0;360.0;369.0;378.0;387.0;396.0;405.0;414.0;423.0;432.0;760" dur="1.8s" begin="8.9s" calcMode="discrete" fill="freeze"/></rect></clipPath>
+<clipPath id="c5"><rect x="28" y="206" width="0" height="26"><animate attributeName="width" values="0.0;9.0;18.0;27.0;36.0;45.0;54.0;63.0;72.0;81.0;90.0;99.0;108.0;117.0;126.0;135.0;144.0;153.0;162.0;171.0;180.0;189.0;198.0;207.0;216.0;225.0;234.0;243.0;252.0;261.0;270.0;279.0;288.0;297.0;306.0;315.0;324.0;333.0;342.0;351.0;360.0;369.0;378.0;387.0;396.0;405.0;414.0;423.0;432.0;441.0;450.0;459.0;468.0;477.0;760" dur="2.0s" begin="8.9s" calcMode="discrete" fill="freeze"/></rect></clipPath>
 </defs>
 <rect x="0.5" y="0.5" width="759" height="275" rx="10" fill="#0d1117" stroke="#30363d"/>
 <circle cx="22" cy="22" r="6" fill="#ff5f56"/><circle cx="42" cy="22" r="6" fill="#ffbd2e"/><circle cx="62" cy="22" r="6" fill="#27c93f"/>
@@ -14,10 +14,10 @@
 <line x1="0" y1="40" x2="760" y2="40" stroke="#30363d"/>
 <g clip-path="url(#c0)"><text x="28" y="74" class="cmd" xml:space="preserve"><tspan class="p">$</tspan> whoami</text></g>
 <g clip-path="url(#c1)"><text x="28" y="104" class="out" xml:space="preserve">gustavo-soares  //  back-end developer (java, python)</text></g>
-<g clip-path="url(#c2)"><text x="28" y="134" class="cmd" xml:space="preserve"><tspan class="p">$</tspan> cat stack.txt</text></g>
+<g clip-path="url(#c2)"><text x="28" y="134" class="cmd" xml:space="preserve"><tspan class="p">$</tspan> echo $STACK</text></g>
 <g clip-path="url(#c3)"><text x="28" y="164" class="out" xml:space="preserve">java · spring boot · python · django · rabbitmq · postgresql · docker</text></g>
 <g clip-path="url(#c4)"><text x="28" y="194" class="cmd" xml:space="preserve"><tspan class="p">$</tspan> git status</text></g>
-<g clip-path="url(#c5)"><text x="28" y="224" class="ok" xml:space="preserve">on branch main  -&gt;  open to junior back-end roles</text></g>
+<g clip-path="url(#c5)"><text x="28" y="224" class="ok" xml:space="preserve">on branch main  -&gt;  building systems that keep working</text></g>
 <text x="28" y="254" class="p" opacity="0">$<animate attributeName="opacity" from="0" to="1" begin="10.8s" dur="0.01s" fill="freeze"/></text>
 <rect x="46" y="240" width="9" height="18" fill="#e6edf3" opacity="0"><animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.01;0.5;0.51;1" dur="1.1s" begin="10.8s" repeatCount="indefinite"/></rect>
 </svg>
